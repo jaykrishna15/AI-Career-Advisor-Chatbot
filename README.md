@@ -244,6 +244,6 @@ Usage analytics
 ✔ Deployment-ready
 
 ## 👨‍💻 Author
-* Kesava Pavan Gadde
+* Jaya Krishna Golla
 * AI Career Advisor Chatbot
 * Built using Google Gemini API
